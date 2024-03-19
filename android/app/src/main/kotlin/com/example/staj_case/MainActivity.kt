@@ -1,0 +1,6 @@
+package com.example.staj_case
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
